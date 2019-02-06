@@ -1,0 +1,26 @@
+/**
+* Reglas
+* Selectores
+* Declaraciones
+* Propiedades
+* Valores
+*/
+
+/* selector de etiqueta */
+
+header{
+    background: pink;
+}
+
+/* selector descendente */
+/* 
+body header div nav ol li a{
+
+} 
+*/
+/* .link{
+
+} */
+/* #portafolio{
+
+} */
